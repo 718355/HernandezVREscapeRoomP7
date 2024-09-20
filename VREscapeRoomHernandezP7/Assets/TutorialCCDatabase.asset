@@ -16,6 +16,6 @@ MonoBehaviour:
   - clip: {fileID: 8300000, guid: c1b79e2e7fc73f449af3051fb3044efb, type: 3}
     Lines:
     - StartSecond: 0
-      Text: '[Humming'
+      Text: '[ Humming ]'
     - StartSecond: 1.5
-      Text: '[More Humming]'
+      Text: '[ More Humming ]'
